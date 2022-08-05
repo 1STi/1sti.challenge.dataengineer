@@ -15,3 +15,7 @@ Arquiteturar solução utilizando Apache Airflow com o objetivo de coletar dados
 1. Quais são as escolas públicas e privadas com o maior número de medalhistas?
 2. Quais são os estados com o maior número de medalhistas?
 3. Quais são as cidades com o maior número de medalhistas?
+
+### Plus
+
+Fazer um desenho da arquitetura de como seria a solução em produção, detalhando o fluxo dos dados e os componentes usados.
