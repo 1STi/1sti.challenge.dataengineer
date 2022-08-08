@@ -19,5 +19,5 @@ Arquiteturar solução utilizando Apache Airflow com o objetivo de coletar dados
 ### Plus
 
 - Fazer um desenho da arquitetura de como seria a solução em produção, detalhando o fluxo dos dados e os componentes usados.
-- Gerar análises gráficas dos dados através de consultas no Athena em qualquer biblioteca Python
+- Gerar análises gráficas dos dados através de consultas no Athena com biblioteca Python boto3.
 
